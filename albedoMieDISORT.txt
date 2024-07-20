@@ -1,0 +1,2 @@
+ radius  wavelength  albedo
+    100  0.6500  0.9708

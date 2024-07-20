@@ -1,0 +1,11 @@
+&input
+radius = 100
+wavelength = 0.65
+shapeTyp = 1
+sza = 60.0
+optD = 100000.0
+irrDir = 1.0
+NUMU = 91
+nPHI = 181
+Albedo=0.0
+/ 
